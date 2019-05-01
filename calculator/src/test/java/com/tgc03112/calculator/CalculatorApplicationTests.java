@@ -5,8 +5,16 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
+/** 
+  * Used for Calculator Test
+  * @author tgc03112
+  */
 @RunWith(SpringRunner.class)
 @SpringBootTest
+/** 
+  * Used for Calculator Test
+  * @author tgc03112
+  */
 public class CalculatorApplicationTests {
 
 	@Test
@@ -14,3 +22,4 @@ public class CalculatorApplicationTests {
 	}
 
 }
+
